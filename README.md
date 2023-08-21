@@ -1,4 +1,4 @@
-![Banner](MikhailKuznetsov_Dev_01.png)
+![Banner](Documentation/MikhailKuznetsov_Dev_01.png)
 
 # H4XER N3VV$
 
@@ -13,7 +13,7 @@
 * The Observer Design Pattern
 * Using UIKit Components with SwiftUI
 
-
+<img src="Documentation/Hacker_news.png" width="500">
 
 
 
